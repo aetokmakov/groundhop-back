@@ -1,2 +1,2 @@
-# grounghop-back
+# groundhop-back
 Backend of GroundHop project
